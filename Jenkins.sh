@@ -1,3 +1,7 @@
+#!/bin/bash
+
+#FOR UBUNTU OS
+
 sudo apt-get update
 sudo apt install git openjdk-8-jdk maven -y
 sudo apt install openjdk-11-jdk -y
