@@ -1,4 +1,4 @@
-#INSTALLING TOMCAT
+#INSTALLING TOMCAT MANUAL WAY
 
 #DOWNLOAD TOMCAT
 wget 'https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.90/bin/apache-tomcat-9.0.90.tar.gz'
